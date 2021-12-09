@@ -1,0 +1,26 @@
+{
+    "recordLocator": "RECORDLOCATOR-XXX",
+    "pnrCreationDate": "2021-10-13T00:00:00.945Z",
+    "numInParty": 1,
+    "numOfSegments": 1,
+    "ticketTypeIndicator": "TICKET_IND",
+    "ticketText": "TICKET_TEXT",
+    "fareLockType": "AUTO",
+    "eventType": null,
+    "passenger": {
+        "firstName":"Mallikarjun",
+        "lastName":"Mamulla",
+        "eliteStatusCode":1,
+        "lastNamePos":2,
+        "firstNamePos":3,
+        "segment":{
+            "origin" : "Hyderabad",
+            "destination" : "London",
+            "carrierCode" : "AIR-HYD-LON"
+        }
+    },
+    "pnrContactData": {
+        "email" : "mallik@xyz.com",
+        "homePhone" : "987654321"
+    }
+}
